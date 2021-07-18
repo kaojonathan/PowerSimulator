@@ -4,9 +4,11 @@ Power and Sample Size for Hypothesis Testing Calculator.
 
 Dual use calculator:
 
-	1. Given the parameters for a hypothesis test and a sample size, the calculator returns the values for type I error, type II error and statistical power.
+	1. Given the parameters for a hypothesis test and a sample size, the calculator returns the values for type I error,
+	type II error and statistical power.
 
-	2. Given the parameters for a hypothesis test and a desired statistical power, the calculator returns the value for type I error, type II error, and required sample size.
+	2. Given the parameters for a hypothesis test and a desired statistical power, the calculator returns the value for type I error,
+	type II error, and required sample size.
 
 Calculates for the following Hypothesis Tests:
 
@@ -22,12 +24,15 @@ Developed for school statistics project.  Statistical power is defined as the pr
 ## Examples
 
 Home Screen
+
 ![image](https://user-images.githubusercontent.com/83883817/126055090-84fb6adb-f4d0-44c1-9ee0-24537d0cd4af.png)
 
 Power of One Sample Z-Test 
+
 ![image](https://user-images.githubusercontent.com/83883817/126055130-cf426fc7-4a8b-4616-9542-b75911bd5810.png)
 
 Sample Size Required for a Power of 0.8 for a One Sample T-Test
+
 ![image](https://user-images.githubusercontent.com/83883817/126055151-22b47ac0-cd35-40f9-89ab-ff15dd532d9a.png)
 
 
